@@ -1,0 +1,19 @@
+git init: cria um repositório
+
+git add App.js: inclui todos os arquivos
+
+git status: apresenta os arquivos
+
+git conmiti -m: cria um nó na linha do tempo
+
+git config --global user.email: adiciona um email
+
+git config --global user.name: adiciona um nome
+
+git remote add origin: Associa a um local remoto
+
+git push origin master: envia a um  local remoto
+
+git fall: atualiza o repositório local com conteudo do repositorio remoto
+
+git add .: adiciona novos elementos
